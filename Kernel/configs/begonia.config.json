@@ -10,8 +10,8 @@
     "enableCcache": true,
     "toolchains": [
       {
-        "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
-        "branch": "lineage-20.0",
+        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone",
+        "branch": "14",
         "name": "clang",
         "binaryEnv": [
           "bin"
