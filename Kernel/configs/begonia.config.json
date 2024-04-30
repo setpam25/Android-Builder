@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "RedmiNote8Pro",
-      "repo": "https://github.com/setpam25/kernel_xiaomi_mt6785",
-      "branch": "udc",
+      "repo": "https://github.com/setpam25/android_kernel_xiaomi_mt6785",
+      "branch": "14.0",
       "device": "begonia",
       "defconfig": "begonia_user_defconfig"
     },
