@@ -59,8 +59,9 @@
       "use": true,
       "release": true,
       "custom": {
-        "repo": "https://github.com/setpam25/AnyKernel3/",
+        "repo": "https://github.com/setpam25/AnyKernel3",
         "branch": "master"
+      }
     },
     "enableLXC": false
   }
